@@ -1,4 +1,4 @@
-# word-changer
+# Word Changer
 
 ## This work's only for `MacOS`
 
