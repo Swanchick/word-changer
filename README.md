@@ -1,5 +1,7 @@
 # word-changer
- 
+
+## This work's only for `MacOS`
+
 ## How to add new words?
 
 To add new you words, you need to edit `words.json` file.
