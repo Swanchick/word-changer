@@ -42,8 +42,6 @@ class WordChanger:
 
     def start(self):
         self.load()
-        
-        print(self.words)
 
         with Listener(on_press=self.on_press) as listener:
             listener.join()
